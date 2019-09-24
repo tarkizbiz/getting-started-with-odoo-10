@@ -6,6 +6,7 @@ April 25, 2017
 
 ## video1_1
 **The Course Overview**
+
 This video gives an overview of the entire course.
 
 ## video1_2
