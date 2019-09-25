@@ -4,7 +4,7 @@ Videos taken from https://www.packtpub.com/application-development/getting-start
 Greg Moss
 April 25, 2017
 
-## video1_1
+## [video1_1](video1_1.mp4)
 **The Course Overview**
 
 This video gives an overview of the entire course.
